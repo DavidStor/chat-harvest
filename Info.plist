@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleName</key><string>Chat Harvest</string>
+<key>CFBundleDisplayName</key><string>Chat Harvest</string>
+<key>CFBundleIdentifier</key><string>local.chatharvest.mac</string>
+<key>CFBundleExecutable</key><string>ChatHarvest</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>CFBundleShortVersionString</key><string>1.0.0</string>
+<key>CFBundleVersion</key><string>7</string>
+<key>CFBundleIconFile</key><string>AppIcon</string>
+<key>LSMinimumSystemVersion</key><string>13.0</string>
+<key>NSHighResolutionCapable</key><true/>
+<key>NSContactsUsageDescription</key><string>Match phone numbers and email addresses to names so your conversations are easier to recognize. Matching happens only on this Mac.</string>
+</dict></plist>

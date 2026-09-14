@@ -1,0 +1,4 @@
+*.sh text eol=lf
+*.swift text eol=lf
+*.png binary
+*.csv -text whitespace=cr-at-eol
