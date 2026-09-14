@@ -4,7 +4,7 @@
 <p align="center">Export iMessage conversations as clean CSV, Markdown, or JSON for your AI, spreadsheet, or personal archive. Free and local on your Mac.</p>
 <p align="center"><a href="https://davidstor.github.io/chat-harvest/">Website & interactive demo</a> · <a href="https://github.com/DavidStor/chat-harvest/releases/latest">Download for Mac</a> · <a href="GUIDE.md">Setup guide</a></p>
 
-[See the app preview on the website →](https://davidstor.github.io/chat-harvest/)
+![Chat Harvest interface showing fictional conversations and CSV export controls](docs/assets/app-preview.jpg)
 
 ## Pick a chat. Take a clean copy.
 

@@ -14,3 +14,5 @@ The static GitHub Pages site is in `docs/`. Preview it with `python3 -m http.ser
 Public downloads are built by `./release.sh`, which runs verification and produces the app ZIP and checksum. They are currently ad-hoc signed, not notarized. Never publish signing keys or certificates in the repository.
 
 The sharing image is `docs/assets/social-card.png`. Its source is `docs/social.html`, which reuses `preview.css`. Capture the complete artboard at a 1200 × 630 browser viewport; keep its fictional app illustration consistent with the landing page when updating either file.
+
+The README image is `docs/assets/app-preview.jpg`, rendered from `docs/app-preview.html` at a 1200-pixel viewport width and the full illustration height. It contains fictional conversations only.
